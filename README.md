@@ -1,0 +1,1 @@
+# javascript_location_object
